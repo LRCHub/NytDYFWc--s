@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "虹色の戦争",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-30T13:08:29.195232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虹色の戦争",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/01_虹色の戦争_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "虹色の戦争",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/02_虹色の戦争_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "虹色の戦争",
+      "artist": "世界の終わり",
+      "has_synced": true,
+      "path": "select/03_虹色の戦争_世界の終わり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹色の戦争",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_虹色の戦争_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
